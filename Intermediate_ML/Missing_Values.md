@@ -82,4 +82,4 @@ extended_X_valid = pd.DataFrame(imputer.fit_transform(X_valid.copy()), columns=X
 
 `MAE: 17791`
 
-Better but still not as good as outright dropping those columns
+Better but not by much...
